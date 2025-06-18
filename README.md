@@ -186,7 +186,7 @@ While both aimed for neutral international trade currency:
 - **Eartho is decentralized**, run by a DAO where every state gets one vote.
 - **Bancor made in 1944** — no blockchain, no smart contracts.
 - **Eartho uses modern decentralized tech** for a multipolar world.
-- Eartho is not an old idea reborn — it’s **a brand new, multipolar, fair trade currency model**.
+- We can say Eartho is reborn of Bancor Idea
 
 ---
 
