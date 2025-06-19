@@ -1,7 +1,5 @@
 # 📖 Eartho: Could a Decentralized State-Only Currency End the Dollar’s Monopoly?
 
-**Author:** M. Fardeen  
-
 This document introduces **Eartho** — a new kind of international money system designed for **governments only**. It’s a decentralized, asset-backed global trade settlement currency aimed at ending the U.S. dollar’s monopoly over world trade.  
 Unlike the IMF’s opaque SDR system or the BRICS coin idea dominated by China and Russia, Eartho is **neutral, fair, transparent, and controlled by multiple sovereign nations equally** — not by any one empire.
 
@@ -208,8 +206,6 @@ It’s a **state-level anti-weaponization financial tool** to:
 ---
 
 ## 📌 Disclaimer
-
-This document is a conceptual manifesto authored by **M. Fardeen**.  
 It represents a **theoretical, non-actionable framework for academic, research, and intellectual discussion only**.  
 The author neither promotes nor facilitates its implementation, nor endorses its use for any illegal, unregulated, or non-consensual purposes.  
 All final implementation decisions, responsibilities, and international implications rest solely in the hands of **sovereign governments and global financial institutions**.
